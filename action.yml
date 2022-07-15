@@ -1,4 +1,4 @@
-name : 'GitHub Twittction'
+name : 'Tweet event URLs'
 description: 'Post on twitter after different github events'
 inputs:
   twitter_status:
